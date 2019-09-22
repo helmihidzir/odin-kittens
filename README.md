@@ -10,7 +10,7 @@
 git clone git@github.com:helmihidzir/odin-kittens.git
 ```
 
-2. Change into the `pin_board` directory.
+2. Change into the `odin-kittens` directory.
 
 ```bash
 cd odin-kittens
